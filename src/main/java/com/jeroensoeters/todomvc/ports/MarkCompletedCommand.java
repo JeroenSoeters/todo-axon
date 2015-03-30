@@ -1,4 +1,4 @@
-package com.jeroensoeters.todomvc.todomvc.ports;
+package com.jeroensoeters.todomvc.ports;
 
 import org.axonframework.commandhandling.annotation.TargetAggregateIdentifier;
 

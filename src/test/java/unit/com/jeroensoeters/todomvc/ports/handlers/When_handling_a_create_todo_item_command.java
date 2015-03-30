@@ -1,6 +1,6 @@
 package com.jeroensoeters.todomvc.ports.handlers;
 
-import com.jeroensoeters.todomvc.todomvc.ports.commands.CreateToDoItemCommand;
+import com.jeroensoeters.todomvc.ports.commands.CreateToDoItemCommand;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

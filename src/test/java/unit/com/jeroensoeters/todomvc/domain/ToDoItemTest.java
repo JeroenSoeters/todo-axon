@@ -1,7 +1,7 @@
 package com.jeroensoeters.todomvc.domain;
 
-import com.jeroensoeters.todomvc.todomvc.ports.MarkCompletedCommand;
-import com.jeroensoeters.todomvc.todomvc.ports.commands.CreateToDoItemCommand;
+import com.jeroensoeters.todomvc.ports.MarkCompletedCommand;
+import com.jeroensoeters.todomvc.ports.commands.CreateToDoItemCommand;
 import org.axonframework.test.FixtureConfiguration;
 import org.axonframework.test.Fixtures;
 import org.junit.Before;

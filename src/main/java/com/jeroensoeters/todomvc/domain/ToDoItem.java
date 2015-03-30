@@ -1,7 +1,7 @@
 package com.jeroensoeters.todomvc.domain;
 
-import com.jeroensoeters.todomvc.todomvc.ports.MarkCompletedCommand;
-import com.jeroensoeters.todomvc.todomvc.ports.commands.CreateToDoItemCommand;
+import com.jeroensoeters.todomvc.ports.MarkCompletedCommand;
+import com.jeroensoeters.todomvc.ports.commands.CreateToDoItemCommand;
 import org.axonframework.commandhandling.annotation.CommandHandler;
 import org.axonframework.eventhandling.annotation.EventHandler;
 import org.axonframework.eventsourcing.annotation.AbstractAnnotatedAggregateRoot;
